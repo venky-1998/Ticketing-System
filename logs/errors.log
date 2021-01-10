@@ -1,0 +1,28 @@
+
+Time: 2020.09.22 21.09.46
+Domain:localhost
+New Exception:MySQL connection failed: Access denied for user 'root'@'localhost' (using password: YES)
+
+
+Time: 2020.09.22 21.09.41
+Domain:localhost
+New Exception:MySQL connection failed: Access denied for user 'root'@'localhost' (using password: YES)
+
+
+Time: 2020.09.22 21.09.15
+Domain:localhost
+New Exception:MySQL connection failed: Access denied for user 'root'@'localhost' (using password: YES)
+
+
+Time: 2020.09.22 21.09.15
+Domain:localhost
+New Exception:MySQL connection failed: Access denied for user 'root'@'localhost' (using password: YES)
+
+
+Time: 2020.09.22 21.09.45
+Domain:localhost
+New Exception:MySQL connection failed: Access denied for user 'root'@'localhost' (using password: YES)
+
+
+22:00:14 / 22.09.2020 - Mailer Error (Test in debug mode for advanced info): SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+22:01:56 / 22.09.2020 - Mailer Error (Test in debug mode for advanced info): SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
